@@ -1,4 +1,4 @@
-### Welcome to the second mini challenge!
+### Welcome to the second mini challenge!!
 
 with this mini challenge, you will apply some very basics skills about JavaScript and React.
 Here, you will find all the instructions needed for this mini challenge.
